@@ -16,4 +16,10 @@ def John():
 
 
 
-def Bailey():
+def Bailey():    
+    print('My name is Bailey Eggebrecht.')
+    print('I am a senior but I have switched majors 3 times.')
+    print('My major is Computer Science.')
+    print('My hobbies include making clay earrings and playing video games.')
+    print('I grew up in Glendive, MT.')
+    print('A fun fact about me is that I am pretty good at oil painting!')
