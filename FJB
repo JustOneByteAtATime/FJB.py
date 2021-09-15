@@ -12,7 +12,14 @@ def Finn():
 
 
 
-def John():
+def Jon():
+    print('Jon Whittenburg')
+    print('Sophmore')
+    print('Computer Science')
+    print('Video games, basketball')
+    print('New Orleans, Louisiana')
+    print('Originally attended the University of New Orleans before transfer')
+
 
 
 
@@ -23,3 +30,6 @@ def Bailey():
     print('My hobbies include making clay earrings and playing video games.')
     print('I grew up in Glendive, MT.')
     print('A fun fact about me is that I am pretty good at oil painting!')
+
+
+
