@@ -3,7 +3,12 @@ print("Bailey is a senior, Finn is a junior, and John is a sophmore")
 
 
 def Finn():
-print("Finn Mikkola")
+  print("Finn Mikkola")
+  print("Junior")
+  print("Computer Science")
+  print("I like to golf, folf, hike, play games, and sleep")
+  print("I grew up in Missoula Montana")
+  print("I am half Finnish")
 
 
 
