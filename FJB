@@ -1,5 +1,5 @@
 print("We are group FJB made up of the project manager, Finn, and John and Bailey as group memebers")
-print("Bailey is a senior, Finn is a junior, and john is a sophmore")
+print("Bailey is a senior, Finn is a junior, and John is a sophmore")
 
 
 def John():
