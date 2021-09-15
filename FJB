@@ -2,6 +2,11 @@ print("We are group FJB made up of the project manager, Finn, and John and Baile
 print("Bailey is a senior, Finn is a junior, and John is a sophmore")
 
 
+def Finn():
+print("Finn Mikkola")
+
+
+
 def John():
 
 
